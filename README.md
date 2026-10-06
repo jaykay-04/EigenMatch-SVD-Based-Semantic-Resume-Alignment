@@ -6,7 +6,7 @@ By mapping applicant data and job requirements into a shared high-dimensional ve
 
 ---
 
-## 🧠 Core Architecture & Mathematical Pipeline
+## Core Architecture & Mathematical Pipeline
 
 The system is built on a 5-phase linear algebra workflow:
 
@@ -32,7 +32,7 @@ The system is built on a 5-phase linear algebra workflow:
 
 ---
 
-## 🛠️ Tech Stack & Libraries
+## Tech Stack & Libraries
 * **Language:** Python 3.x
 * **Core Mathematics:** `NumPy`
 * **Data Manipulation:** `Pandas`
@@ -42,7 +42,7 @@ The system is built on a 5-phase linear algebra workflow:
 
 ---
 
-## 🚀 How to Run (Google Colab)
+## How to Run (Google Colab)
 
 1. Clone this repository or download the `.ipynb` notebook file.
 2. Upload the notebook to [Google Colab](https://colab.research.google.com/).
@@ -53,9 +53,9 @@ The system is built on a 5-phase linear algebra workflow:
 
 ---
 
-## 👥 Team
+## Team
 
-* **Badrinath S Kini** - Data & Matrix Architect (Text Preprocessing & TF-IDF Mapping)
-* **Akash K Devang** - SVD & Redundancy Lead (Matrix Factorization & Dimensionality Reduction)
-* **Akshay Bharadwaj** - Proximity Engine Lead (Orthogonal Geometry & Cosine Similarity)
-* **Abhinav J. K.** - Integration & Viva Lead (End-to-End Architecture & Dynamic Stoploss Visualization)
+* **Badrinath S Kini**
+* **Akash K Devang**
+* **Akshay Bharadwaj**
+* **Abhinav J. K.**
