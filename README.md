@@ -1,4 +1,4 @@
-# EigenMatch: SVD-Based Semantic Resume Alignment 🎯
+# EigenMatch: SVD-Based Semantic Resume Alignment 
 
 **EigenMatch** is a Python-based predictive talent matching engine that applies linear algebra transformations to align unstructured candidate resumes with job descriptions. Developed for the **UE25MA242A: Mathematical Foundation for AI & Data Science** course at PES University, this project avoids black-box NLP matching libraries by explicitly implementing matrix factorization and spatial geometry from scratch using NumPy.
 
